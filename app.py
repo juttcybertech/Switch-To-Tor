@@ -37,7 +37,7 @@ from stem.control import Controller
 console = Console()
 TOOL_NAME = "Switch to Tor"
 SUBTITLE = "make yourself ANonymous"
-DEVELOPER = "justt cyber tech"
+CREATED BY = "Jutt Cyber Tech"
 
 def get_tor_uid():
     """Gets the UID of the debian-tor user for iptables rules."""
@@ -385,3 +385,4 @@ if __name__ == "__main__":
         except KeyboardInterrupt:
 
             console.print("\n[bold red]Program interrupted by user. Exiting safely...[/bold red]")
+
