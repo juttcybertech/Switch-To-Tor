@@ -35,17 +35,3 @@ pip3 install requests stem rich
 git clone https://github.com/yourname/switch-to-tor.git
 cd switch-to-tor
 sudo python3 switch_to_tor.py
-
-
-
-
----
-
-## 📄 Fichier `LICENSE` (GPL-3.0)
-
-Tu peux générer un fichier `LICENSE` complet ici :  
-👉 https://www.gnu.org/licenses/gpl-3.0.txt
-
-Ou exécuter dans ton repo :
-```bash
-curl -o LICENSE https://www.gnu.org/licenses/gpl-3.0.txt
